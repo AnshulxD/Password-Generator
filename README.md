@@ -1,7 +1,6 @@
 
 # Random Password Genreator 
-Random password Genreator using html, javascript and css 
-
+Random password Generator using html, JavaScript and CSS
 
 ## Demo
 
